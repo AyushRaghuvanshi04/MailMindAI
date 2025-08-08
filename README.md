@@ -1,4 +1,4 @@
-# MailMindAI
+# MailMindAI 
 
 Your intelligent email companion with AI-powered summarization and drafting. 
 
