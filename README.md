@@ -9,7 +9,7 @@ Your intelligent email companion with AI-powered summarization and drafting.
 - **Smart Chat**: Ask questions about your emails and get intelligent responses 
 - **Demo Authentication**: Simple demo login and signup for testing
 - **Modern UI**: Beautiful Material 3 design with smooth animations
-
+ 
 ## 🛠️ Tech Stack
 
 - **Frontend**: Flutter
