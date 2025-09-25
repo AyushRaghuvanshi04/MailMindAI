@@ -1,7 +1,7 @@
 # MailMindAI 
  
 Your intelligent email companion with AI-powered summarization and drafting. 
-
+ 
 ## 🚀 Features 
    
 - **AI Email Summarization**: Get instant summaries of your emails with key points and action items
