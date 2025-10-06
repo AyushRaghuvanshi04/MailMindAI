@@ -6,7 +6,7 @@ Your intelligent email companion with AI-powered summarization and drafting.
    
 - **AI Email Summarization**: Get instant summaries of your emails with key points and action items
 - **AI Email Drafting**: Generate professional email drafts with customizable tones    
-- **Smart Chat**: Ask questions about your emails and get intelligent responses    
+- **Smart Chat**: Ask questions about your emails and get intelligent responses     
 - **Demo Authentication**: Simple demo login and signup for testing
 - **Modern UI**: Beautiful Material 3 design with smooth animations
  
