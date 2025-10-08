@@ -10,7 +10,7 @@ Your intelligent email companion with AI-powered summarization and drafting.
 - **Demo Authentication**: Simple demo login and signup for testing
 - **Modern UI**: Beautiful Material 3 design with smooth animations
  
-## 🛠️ Tech Stack 
+## 🛠️ Tech Stack  
  
 - **Frontend**: Flutter  
 - **AI**: Google Gemini API 
