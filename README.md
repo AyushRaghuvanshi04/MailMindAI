@@ -14,7 +14,7 @@ Your intelligent email companion with AI-powered summarization and drafting.
  
 - **Frontend**: Flutter  
 - **AI**: Google Gemini API 
-- **State Management**: Flutter StatefulWidget
+- **State Management**: Flutter StatefulWidget 
 - **UI**: Material Design 3  
 
 ## 📱 Screenshots
